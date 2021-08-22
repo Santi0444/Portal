@@ -5,16 +5,26 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< Updated upstream
       ticks: 637650590622266960
     m_Hash: 843239407
+=======
+      ticks: 637652499300000000
+    m_Hash: 3464759710
+>>>>>>> Stashed changes
   m_LockFileStatus:
     m_FilePath: C:/Users/46360738/Downloads/Portal-main/Portal-main/PORTALVR/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< Updated upstream
       ticks: 637650591394090925
     m_Hash: 2558841048
+=======
+      ticks: 637652506864767813
+    m_Hash: 1231128614
+>>>>>>> Stashed changes
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
